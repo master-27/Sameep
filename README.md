@@ -1,4 +1,4 @@
-markdown
+
 # CS_MsgApp
 
 CS_MsgApp is a messaging application built using React (with Vite for the frontend) and Spring Boot for the backend. It manages customer messages and ensures that no two agents work on the same message concurrently using WebSocket-based communication.
